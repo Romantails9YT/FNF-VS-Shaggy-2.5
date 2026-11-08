@@ -8215,6 +8215,7 @@
 				"bpm": 107
 			},
 			{
+				"mania": 1
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
