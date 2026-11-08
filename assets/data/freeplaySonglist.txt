@@ -11,3 +11,4 @@ Dissasembler:rshaggy:0xFF7149A8
 Astral-calamity:wbshaggy:0xFF9C0079
 Talladega:zshaggy:0xFF686868
 Placeholder:zshaggy:0xFF686868
+Ultra-Instinct:sshaggy:0xFF7149A8
